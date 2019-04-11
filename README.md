@@ -2,7 +2,7 @@
 
 ### Nguồn:  [Medium](https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108)
 
-<div style="display: flex; justify-content: center; padding: 20px"><video id="embedlyVideo_html5_api" class="vjs-tech" preload="none" poster="https://thumbs.gfycat.com/ThankfulContentCoypu-size_restricted.gif" loop="" src="https://thumbs.gfycat.com/ThankfulContentCoypu-mobile.mp4"><source src="https://thumbs.gfycat.com/ThankfulContentCoypu-mobile.mp4" type="video/mp4"></video></div>
+<video id="embedlyVideo_html5_api" class="vjs-tech" preload="none" poster="https://thumbs.gfycat.com/ThankfulContentCoypu-size_restricted.gif" loop="" src="https://thumbs.gfycat.com/ThankfulContentCoypu-mobile.mp4"><source src="https://thumbs.gfycat.com/ThankfulContentCoypu-mobile.mp4" type="video/mp4"></video>
 
 Việc tạo ra các thành phần Animation, hay chính là **Hoạt cảnh** ở trên các ứng dụng di động của bạn là rất dễ dàng. Chính xác là như vậy nếu bạn làm theo các mẹo mà chúng tôi đưa ra dưới đây.
 
